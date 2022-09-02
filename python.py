@@ -1,4 +1,5 @@
 print("first")
+print("second")
 greeting = "Good Morning"
 a = 100
 
