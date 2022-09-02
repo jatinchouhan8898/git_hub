@@ -1,8 +1,8 @@
 
 greeting = "Good Morning"
-a = 10
+a = 100
 
-if a > 2:
+if a > 20:
     print(" Condition matches")
     print("second line")
 else:
