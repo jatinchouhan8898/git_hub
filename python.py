@@ -1,6 +1,10 @@
+
+print("first")
+
 print("second")
+
 greeting = "Good Morning"
-a = 100
+a = 1009898
 
 if a > 20:
     print(" Condition matches")
